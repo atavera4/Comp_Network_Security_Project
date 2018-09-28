@@ -1,0 +1,41 @@
+:0  Time: 
+
+Time threshold exceeded for Total MilliSeconds. at time --> Minute: 40 Seconds: 21  Milliseconds:42  NEW WEB REQUEST
+Time Difference since previous user request:2421420
+    www.cnn.com.  
+    www.i.cdn.cnn.com.  
+    a.postrelease.com.  
+    tpc.googlesyndication.com.  
+    pagead2.googlesyndication.com.  
+    www.ugdturner.com.  
+    cdn.krxd.net.  
+    www.google.com.  
+    ocsp.digicert.com.  
+    rtax.criteo.com.  
+    stats.aws.rubiconproject.com.  
+    b.scorecardresearch.com.  
+    ad.doubleclick.net.  
+    static.chartbeat.com.  
+    cdn.clicktale.net.  
+    aspen.turner.com.  
+    t.co.  
+    googleads.g.doubleclick.net.  
+    analytics.twitter.com.  
+    idsync.ipowow.com.  
+    36a3fec2.mpstat.us.  
+    ping.chartbeat.net.  
+    aspen.turner.com.  
+    aspen.turner.com.  
+    stats.aws.rubiconproject.com.  
+    money.cnn.com.  
+    bleacherreport.com.  
+    cnn.it.  
+    twitter.com.  
+    instagram.com.  
+    www.turner.com.  
+    www.wearecnn.com.  
+    cnnnewsource.com.  
+    inhealth.cnn.com.  
+    www.lendingtree.com.  
+    gscounters.us1.gigya.com.  
+END OF FILE/Program Finished 

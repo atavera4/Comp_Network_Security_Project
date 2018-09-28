@@ -1,0 +1,14 @@
+2016-05-18 15:50:53.904659 Client IP: 127.0.0.1    request is    safebrowsing.google.com. IN A
+2016-05-18 15:50:53.928706 Client IP: 127.0.0.1    request is    safebrowsing.google.com. IN AAAA
+2016-05-18 15:50:54.022087 Client IP: 127.0.0.1    request is    clients1.google.com. IN A
+2016-05-18 15:50:54.058385 Client IP: 127.0.0.1    request is    clients1.google.com. IN AAAA
+2016-05-18 15:50:54.215684 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A
+2016-05-18 15:50:54.260377 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN AAAA
+2016-05-18 15:50:55.658935 Client IP: 127.0.0.1    request is    duckduckgo.com. IN A
+2016-05-18 15:50:55.682897 Client IP: 127.0.0.1    request is    duckduckgo.com. IN AAAA
+2016-05-18 15:50:55.705089 Client IP: 127.0.0.1    request is    ac.duckduckgo.com. IN A
+2016-05-18 15:50:55.728589 Client IP: 127.0.0.1    request is    ac.duckduckgo.com. IN AAAA
+2016-05-18 15:50:58.890197 Client IP: 127.0.0.1    request is    yahoo.com. IN A
+2016-05-18 15:50:58.912287 Client IP: 127.0.0.1    request is    yahoo.com. IN AAAA
+2016-05-18 15:50:59.032604 Client IP: 127.0.0.1    request is    www.yahoo.com. IN A
+2016-05-18 15:50:59.052719 Client IP: 127.0.0.1    request is    www.yahoo.com. IN AAAA

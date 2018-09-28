@@ -1,0 +1,32 @@
+:0  Time: 
+
+Time threshold exceeded for Total MilliSeconds. at time --> Minute: 07 Seconds: 47  Milliseconds:34  NEW WEB REQUEST
+Time Difference since previous user request:467340
+    www.wsj.com.  
+    fonts.wsj.net.  
+    video-api.wsj.com.  
+    vir.wsj.net.  
+    s.wsj.net.  
+    assets.vidora.com.  
+    si.wsj.net.  
+    m.wsj.net.  
+    segment-data.zqtk.net.  
+    speed.pointroll.com.  
+    online.wsj.com.  
+    clients1.google.com.  
+    gn.symcd.com.  
+    api.vidora.com.  
+    bam.nr-data.net.  
+    cdn.cxense.com.  
+    www.googletagservices.com.  
+    a248.e.akamai.net.  
+    om.dowjoneson.com.  
+    wsjstream.wsj.net.  
+    pagead2.googlesyndication.com.  
+    tpc.googlesyndication.com.  
+    api.wsj.net.  
+    ad.doubleclick.net.  
+    www.budgetedbauer.com.  
+    www.alternateatmosphere.com.  
+    a.vidora.com.  
+END OF FILE/Program Finished 

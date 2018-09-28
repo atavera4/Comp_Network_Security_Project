@@ -1,0 +1,45 @@
+:0  Time: 
+
+Time threshold exceeded for Total MilliSeconds. at time --> Minute: 01 Seconds: 49  Milliseconds:47  NEW WEB REQUEST
+Time Difference since previous user request:109470
+    www.nytimes.com.  
+    a1.nyt.com.  
+    cdn.optimizely.com.  
+    int.nyt.com.  
+    static01.nyt.com.  
+    vassg142.ocsp.omniroot.com.  
+    cdn3.optimizely.com.  
+    3338050995.log.optimizely.com.  
+    typeface.nyt.com.  
+    geoip.newsdev.nytimes.com.  
+    markets.on.nytimes.com.  
+    graphics8.nytimes.com.  
+    ocsp.digicert.com.  
+    gp.symcd.com.  
+    cigawsloadbalancer-17715275.us-east-1.elb.amazonaws.com.  
+    www.google-analytics.com.  
+    international.nytimes.com.  
+    cn.nytimes.com.  
+    www.facebook.com.  
+    wordplay.blogs.nytimes.com.  
+    nyt.qualtrics.com.  
+    lens.blogs.nytimes.com.  
+    well.blogs.nytimes.com.  
+    realestateads.nytimes.com.  
+    topics.nytimes.com.  
+    artsbeat.blogs.nytimes.com.  
+    myaccount.nytimes.com.  
+    eedition.nytimes.com.  
+    subscribe.inyt.com.  
+    www.nytco.com.  
+    www.nytimes.whsites.net.  
+    spiderbites.nytimes.com.  
+    mobile.nytimes.com.  
+    www.nytwineclub.com.  
+    nytedu.com.  
+    atwar.blogs.nytimes.com.  
+    sinosphere.blogs.nytimes.com.  
+    elections.nytimes.com.  
+    bits.blogs.nytimes.com.  
+    cooking.nytimes.com.  
+END OF FILE/Program Finished 

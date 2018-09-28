@@ -1,0 +1,52 @@
+:0  Time: 
+
+Time threshold exceeded for Total MilliSeconds. at time --> Minute: 47 Seconds: 15  Milliseconds:43  NEW WEB REQUEST
+Time Difference since previous user request:2835430
+    www.yahoo.com.  
+    s.yimg.com.  
+    bs.serving-sys.com.  
+    tg.symcd.com.  
+    csc.beap.bc.yahoo.com.  
+    sb.scorecardresearch.com.  
+    geo-um.btrll.com.  
+    na.ads.yahoo.com.  
+    pagead2.googlesyndication.com.  
+    ads.yahoo.com.  
+    ss.symcd.com.  
+    pclick.yahoo.com.  
+    vassg142.ocsp.omniroot.com.  
+    googleads.g.doubleclick.net.  
+    pix04.revsci.net.  
+    image2.pubmatic.com.  
+    cm.g.doubleclick.net.  
+    sync.adaptv.advertising.com.  
+    pr-bh.ybp.yahoo.com.  
+    match.adsrvr.org.  
+    cache.btrll.com.  
+    rtd.tubemogul.com.  
+    ocsp.comodoca.com.  
+    ocsp.netsolssl.com.  
+    ocsp.entrust.net.  
+    mpp2.vindicosuite.com.  
+    secure-ds.serving-sys.com.  
+    rp.gwallet.com.  
+    mpp.vindicosuite.com.  
+    ocsp.trustwave.com.  
+    ocsp.digicert.com.  
+    pixel.tapad.com.  
+    csync.flickr.com.  
+    ocsp.godaddy.com.  
+    geo.query.yahoo.com.  
+    geo.yahoo.com.  
+    gn.symcd.com.  
+    geo.query.yahoo.com.  
+    comet.yahoo.com.  
+    www.yahoo.com.  
+    csync.yahooapis.com.  
+    comet.yahoo.com.  
+    geo.query.yahoo.com.  
+    geo.query.yahoo.com.  
+    geo.query.yahoo.com.  
+    stags.bluekai.com.  
+    comet.yahoo.com.  
+END OF FILE/Program Finished 

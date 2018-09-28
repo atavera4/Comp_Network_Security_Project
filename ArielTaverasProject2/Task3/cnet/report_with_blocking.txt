@@ -1,0 +1,24 @@
+:0  Time: 
+
+Time threshold exceeded for Total MilliSeconds. at time --> Minute: 17 Seconds: 07  Milliseconds:03  NEW WEB REQUEST
+Time Difference since previous user request:1027030
+    www.cnet.com.  
+    cnet2.cbsistatic.com.  
+    cnet3.cbsistatic.com.  
+    cnet1.cbsistatic.com.  
+    cnet4.cbsistatic.com.  
+    safebrowsing.google.com.  
+    gn.symcd.com.  
+    clients1.google.com.  
+    safebrowsing-cache.google.com.  
+    cn.cbsimg.net.  
+    twitter.com.  
+    download.cnet.com.  
+    www.cnetnews.com.cn.  
+    www.cnetfrance.fr.  
+    www.cnet.de.  
+    japan.cnet.com.  
+    www.cnet.co.kr.  
+    cbsi.secure.force.com.  
+    plus.google.com.  
+END OF FILE/Program Finished 
